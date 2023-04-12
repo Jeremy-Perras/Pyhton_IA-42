@@ -1,6 +1,5 @@
 #  TODO
 
-
 class Account(object):
 
     ID_COUNT = 1
